@@ -1,0 +1,20 @@
+[
+{
+  "title": "Clean Code",
+  "isbn": "978-6789678456",
+  "year": 2014,
+  "language": "English",
+  "pages": 424,
+  "authors": ["Uncle Bob", "Uncle Sam", "Uncle Martin"],
+  "publishers": ["Dream-tech press"]
+},
+{
+  "title": "Bad Code",
+  "isbn": "990-6789678456",
+  "year": 2016,
+  "language": "Spanish",
+  "pages": 424,
+  "authors": ["Uncle Bob", "Uncle Sam", "Uncle Martin"],
+  "publishers": ["Dream-tech press"]
+}
+]
